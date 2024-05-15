@@ -10,7 +10,7 @@ Chat with Databases using RAG leverages advanced techniques such as RAG (Retriev
 
 The project utilizes the following technologies and libraries:
 
-- **Langchain & Langsmith**: Advanced language processing and understanding.
+- **Langchain & Langsmith**: Powerful frameworks to create and monitor AI powered applications.
 - **GooglePalm & GooglePalmEmbeddings**: State-of-the-art language models for enhanced comprehension.
 - **ChromaDb**: Provides a rich palette of database interactions.
 - **FewShotPromptTemplate**: Optimizes query generation with few-shot learning techniques.
