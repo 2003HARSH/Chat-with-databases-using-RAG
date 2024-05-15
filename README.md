@@ -49,7 +49,7 @@ Special thanks to the developers and contributors of the libraries and technolog
 
 ## Contact
 
-For inquiries or support, please contact [your@email.com](mailto:your@email.com).
+For inquiries or support, please contact [harshnkgupta@email.com](mailto:harshnkgupta@email.com).
 
 ---
 
