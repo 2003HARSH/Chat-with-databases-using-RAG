@@ -2,6 +2,11 @@
 
 Welcome to Chat with Databases using RAG, a revolutionary project that enables seamless interaction with databases using natural language inputs. This README.md file provides an overview of the project, its features, and instructions on how to use it.
 
+### Streamlit UI:
+![](https://github.com/2003HARSH/Chat-with-databases-using-RAG/blob/main/docs/static/chat_with_db.png)
+### LangSmith Monitoring:
+![](https://github.com/2003HARSH/Chat-with-databases-using-RAG/blob/main/docs/static/langsmith.png)
+
 ## Overview
 
 Chat with Databases using RAG leverages advanced techniques such as RAG (Retrieve, Aggregate, Generate) and few-shot learning to bridge the gap between human language and database interactions. It allows users to input queries in plain text, automatically generates corresponding SQL queries, and retrieves human-like answers from the database.
